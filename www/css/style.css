@@ -27,6 +27,7 @@
     #time {
         color: #ff0000;
         box-shadow: 5px 5px 5px;
+             margin: 0 auto;
         width: 50%;
         font-size: 20px;
         text-align: center;
